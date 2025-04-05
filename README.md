@@ -6,6 +6,11 @@ ROTC is a 2-day hands-on, semi-guided workshop, with an additional four-hour ROT
 
 [Final Assignment](https://github.com/twlabs/ROTC-semi-guided-material/tree/main/final_assignment)
 
+## Contributors : 
+- [R Sri Laxmi Ragini (32898)](https://jigsaw.thoughtworks.net/consultants/32898)
+- [Rohit Shinde (29895)](https://jigsaw.thoughtworks.net/consultants/29895)
+- [Raghunandhan AJ (42575)](https://jigsaw.thoughtworks.net/consultants/42575)
+
 ## Additional Resources
 
 
