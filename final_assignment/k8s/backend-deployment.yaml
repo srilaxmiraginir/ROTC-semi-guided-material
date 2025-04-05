@@ -31,3 +31,17 @@ spec:
                 secretKeyRef:
                   name: db-secret
                   key: db-password
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: backend-service
+  namespace: crud-app
+spec:
+  type: ClusterIP
+  selector:
+    app: backend-api
+  ports:
+    - port: 8000
+      targetPort: 8000
